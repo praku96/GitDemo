@@ -29,6 +29,9 @@ public class ConditionalStatement {
 	else
 	{
 		System.out.println("Result of b is not equal to zero");
+System.out.println("Result of b is not equal to zero");
+System.out.println("Result of b is not equal to zero");
+System.out.println("Result of b is not equal to zero");
 	}
 	
 	
